@@ -1,2 +1,2 @@
 # bootstrap-dio
-Criando páginas para internet com bootstrap seguindo as aulas da Digital Innovation One
+Criando páginas WEB com bootstrap seguindo as aulas da Digital Innovation One
